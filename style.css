@@ -1,6 +1,6 @@
 
 body {
-    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 header {
@@ -31,6 +31,7 @@ header {
     margin-left: 10px;
     margin-right: 10px;
     font-size: large;
+    
 }
 
 /*LINKS*/
