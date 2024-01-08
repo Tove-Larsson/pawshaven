@@ -1,0 +1,48 @@
+
+body {
+    
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+.header_logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#logo {
+    height: 302px;
+    width: 400px;
+}
+
+.header_links {
+    border-top: solid 1px;
+    border-color: gray;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#header_link {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: large;
+}
+
+/*LINKS*/
+a {
+    color: rgb(4, 1, 1);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(4, 1, 1);
+}
+
+a:hover {
+    color: rgb(124, 81, 120);
+}
